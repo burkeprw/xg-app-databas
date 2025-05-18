@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "xg-app-databas",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "79bfb14e-e6d6-4925-b3d6-1614df97e7f8",
+      "database_name": "xg-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
